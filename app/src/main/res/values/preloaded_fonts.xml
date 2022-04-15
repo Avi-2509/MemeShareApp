@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/aclonica</item>
+        <item>@font/aldrich</item>
+        <item>@font/alegreya_sc_bold</item>
+        <item>@font/alfa_slab_one</item>
+        <item>@font/amethysta</item>
+        <item>@font/andada</item>
+        <item>@font/atomic_age</item>
+        <item>@font/baloo_chettan</item>
+    </array>
+</resources>
